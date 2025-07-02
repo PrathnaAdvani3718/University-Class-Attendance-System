@@ -1,0 +1,7 @@
+export const GET_SUBJECTS = "GET_SUBJECTS";
+export const GET_SUBJECT = "GET_SUBJECT";
+export const ADD_SUBJECT = "ADD_SUBJECT";
+export const UPDATE_SUBJECT = "UPDATE_SUBJECT";
+export const DELETE_SUBJECT = "DELETE_SUBJECT";
+export const SUBJECT_LOADING = "SUBJECT_LOADING";
+export const SUBJECT_ERROR = "SUBJECT_ERROR"; 
